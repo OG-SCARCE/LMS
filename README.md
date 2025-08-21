@@ -1,3 +1,12 @@
+```ansi
+[32m   ____       _            ____                 
+  / ___| __ _| | ___  ___ / ___|___  _ __  ___  
+ | |  _ / _` | |/ _ \/ __| |   / _ \| '_ \/ __| 
+ | |_| | (_| | |  __/\__ \ |__| (_) | | | \__ \ 
+  \____|\__,_|_|\___||___/\____\___/|_| |_|___/ 
+                                                
+      Cybersecurity & Digital Forensics (Sem 3)[0m```
+
 # 🕵️‍♂️ Galgotias LMS – CyberSec & Digital Forensics (Sem 3)  
 
 > ⚡ A re-engineered & optimized version of the official Galgotias LMS for **Cybersecurity & Digital Forensics Semester 3**.  
