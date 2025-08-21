@@ -40,14 +40,14 @@
 
  ---
 
-⚔️ Motivation
+## ⚔️ Motivation
 
 The official LMS often feels cluttered & sluggish.
 This repo aims to be a clear, efficient, and cyber-themed alternative that makes studying faster & cooler for Semester 3 students.
 
 ---
 
-##🛰️ Tech Stack
+## 🛰️ Tech Stack
 
 HTML / CSS / JS
 
@@ -59,7 +59,7 @@ Optimized file & resource management
 
 ---
 
-##🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 Dark cyber UI with neon glow 🌌
 
@@ -71,14 +71,14 @@ More automation for labs & assignments 🤖
 
 ---
 
-##📜 License
+## 📜 License
 
 This project is for educational purposes only.
 All rights for original content belong to Galgotias University.
 
 ---
 
-##⚡ "Hack the system, but stay ethical."
+## ⚡ "Hack the system, but stay ethical."
 
 Do you also want me to add some **ASCII-art banner** at the top (like `CYBERSEC LMS v3`) for extra hacker vibes?
 ---
