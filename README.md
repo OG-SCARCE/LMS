@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=25&center=true&vCenter=true&width=700&lines=Welcome+Hacker+👾;Cybersecurity+%26+Digital+Forensics+Repo;Learn+Ethical+Hacking+%26+DFIR;Hack+the+System...+Stay+Ethical+🛡️" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=25&center=true&vCenter=true&width=700&lines=Welcome+To+LMS+👾;Cybersecurity+%26+Digital+Forensics+Repo;Learn+Ethical+Hacking+%26+DFIR;Hack+the+System...+Stay+Ethical+🛡️" />
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 - 🌌 **Neon Hacker-Themed UI**  
 - 💨 **Fast Navigation** – clean file/folder structure  
 - 🧑‍💻 **Forensic-ready** labs, case studies, and resources  
-- 🔐 **Cyberpunk Vibes** with animated banners  
+- 🔐 **Cybersecurity Vibes** with animated banners  
 
 ---
 
@@ -41,7 +41,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=22&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=1600&lines=LMS-Sem3-CyberSec+%2F;┣━━+📂+Modules;┃+┣━━+📜+Network+Security;┃+┣━━+📜+Digital+Forensics;┃+┣━━+📜+Cryptography;┃+┗━━+📜+Cyber+Laws;┣━━+📂+Assignments;┣━━+📂+Resources;┣━━+📂+Tools;┗━━+📜+README.md" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=22&pause=0.001&color=00FF00&center=false&vCenter=false&multiline=true&width=400&height=300&lines=LMS-Sem+III-CyberSec+%2F;┣━━+📂+Modules;++++++┃+┣━━+📜+Network+Security;++┃+┣━━+📜+Digital+Forensics;┃+┣━━+📜+Cryptography;┃+┗━━+📜+Cyber+Laws;┣━━+📂+Assignments;┣━━+📂+Resources;┣━━+📂+Tools;┗━━+📜+README.md" />
 
 </div>
 
@@ -87,7 +87,7 @@ cd LMS-Sem3-CyberSec
 ## ⚔️ Motivation  
 
 The official LMS feels **slow + cluttered**.  
-This repo is **fast, clean, and cyberpunk-inspired** to help students **hack knowledge, not time**.  
+This repo is **fast, clean, and cybersecurity-inspired** to help students **hack knowledge, not time**.  
 
 ---
 
@@ -101,5 +101,5 @@ All content originally © Galgotias University.
 ## 💀 Hacker’s Oath  
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=00FF00&center=true&vCenter=true&multiline=true&width=700&lines=%22Hack+the+System...;But+Always+Stay+ETHICAL+%F0%9F%92%BB+%F0%9F%9B%A1%EF%B8%8F%22" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=00FF00&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%22Hack+the+System...;But+Always+Stay+ETHICAL+%F0%9F%92%BB+%F0%9F%9B%A1%EF%B8%8F%22" />
 </div>
