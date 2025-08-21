@@ -1,111 +1,102 @@
-██████╗ ██╗ ██╗██████╗ ███████╗██████╗ ███████╗███████╗ ██████╗
-██╔═══██╗██║ ██║██╔══██╗██╔════╝██╔══██╗██╔════╝██╔════╝██╔═══██╗
-██║ ██║██║ ██║██████╔╝█████╗ ██████╔╝█████╗ █████╗ ██║ ██║
-██║▄▄ ██║██║ ██║██╔══██╗██╔══╝ ██╔═══╝ ██╔══╝ ██╔══╝ ██║ ██║
-╚██████╔╝╚██████╔╝██████╔╝███████╗██║ ██║ ███████╗╚██████╔╝
-╚══▀▀═╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝ ╚═╝ ╚══════╝ ╚═════╝
+<!-- Cyberpunk README with Glow, Typing Effect & Matrix-style Repo Tree -->
 
-🎯 CyberSecurity & Digital Forensics – Semester 3 (Galgotias University)
+<div align="center">
 
+<h1>
+  <span style="font-family: 'Courier New', monospace; font-size: 2.5em; color: #00ffea; text-shadow: 0 0 10px #00ffe0, 0 0 20px #00cfcf;">
+    ⚡ CYBERSEC & DIGITAL FORENSICS – SEM 3 ⚡
+  </span>
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=25&center=true&vCenter=true&width=700&lines=Welcome+Hacker+👾;Cybersecurity+%26+Digital+Forensics+Repo;Learn+Ethical+Hacking+%26+DFIR;Hack+the+System...+Stay+Ethical+🛡️" />
+</p>
+
+<p align="center">
+  <a href="#-getting-started">
+    <img src="https://img.shields.io/badge/🚀-Get%20Started-green?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+  <a href="#-tech-stack">
+    <img src="https://img.shields.io/badge/💻-Tech%20Stack-cyan?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
+  </a>
+  <a href="#-roadmap--future-enhancements">
+    <img src="https://img.shields.io/badge/🔮-Roadmap-magenta?style=for-the-badge&logo=futurama&logoColor=black" />
+  </a>
+</p>
+
+</div>
 
 ---
 
-## 🕵️‍♂️ About This Repo  
-> 🔐 A **re-engineered & optimized** version of the Galgotias LMS for **Cybersecurity & Digital Forensics (Sem 3)**.  
-Designed with a hacker-style interface for **speed, clarity, and a smooth study workflow**.  
+## ✨ Features
+
+- 🌌 **Neon Hacker-Themed UI**  
+- 💨 **Fast Navigation** – clean file/folder structure  
+- 🧑‍💻 **Forensic-ready** labs, case studies, and resources  
+- 🔐 **Cyberpunk Vibes** with animated banners  
 
 ---
 
-## ⚡ Highlights  
-✅ **Well-Structured** → Modules, assignments, resources neatly arranged  
-⚡ **Lightweight & Fast** → No clutter, quick navigation  
-🧑‍💻 **User-Friendly** → Minimal yet aesthetic layout  
-🛠️ **Forensic-Ready** → Direct access to labs, tools & case studies  
+## 📂 Repo Structure (Matrix Glow 🌱)
 
----
+<div align="center">
 
-## 📁 Repo Structure  
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=22&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=600&lines=LMS-Sem3-CyberSec+%2F;┣━━+📂+Modules;┃+┣━━+📜+Network+Security;┃+┣━━+📜+Digital+Forensics;┃+┣━━+📜+Cryptography;┃+┗━━+📜+Cyber+Laws;┣━━+📂+Assignments;┣━━+📂+Resources;┣━━+📂+Tools;┗━━+📜+README.md" />
 
-```
-LMS-Sem3-CyberSec/
- ┣ 📂 Modules
- ┃ ┣ 📜 01-Network Security
- ┃ ┣ 📜 02-Digital Forensics
- ┃ ┣ 📜 03-Cryptography
- ┃ ┗ 📜 04-Cyber Laws
- ┣ 📂 Assignments
- ┣ 📂 Resources
- ┣ 📂 Tools
- ┗ 📜 README.md
-```
+</div>
 
 ---
 
 ## 🚀 Getting Started  
 
-1️⃣ **Clone the repo**
-```
+1️⃣ Clone the repo
 git clone https://github.com/OG-SCARCE/LMS.git
-```
 
-2️⃣ **Navigate inside**
-```
+2️⃣ Enter directory
 cd LMS-Sem3-CyberSec
-```
 
-3️⃣ **Explore modules & resources** 🎉
+3️⃣ Hack knowledge ⚡
+
 
 ---
 
 ## 🛰️ Tech Stack  
-- 🌐 **HTML / CSS / JavaScript**  
-- ⚡ **Tailwind CSS** for fast styling  
-- 📦 **Node.js** (for backend if applicable)  
-- 📂 **Optimized file management**  
+
+<div align="center">
+
+| 💻 Frontend | 🎨 Styling | ⚡ Backend | 📂 Management |
+|-------------|------------|------------|---------------|
+| HTML / JS   | Tailwind   | Node.js    | Optimized LMS |
+
+</div>
 
 ---
 
-## 🔮 Roadmap / Future Upgrades  
-✨ Hacker-style **Dark Neon UI**  
-🔎 **Quick Search** across all modules  
-📊 **Assignment & Resource Tracker**  
-🤖 **Automated Lab/Case Study Setup**  
+## 🔮 Roadmap / Future Enhancements  
+
+✅ **Dark neon cyber UI** 🌌  
+✅ **Resource tracker & progress bars** 📊  
+✅ **Quick search function** 🔎  
+✅ **Auto lab-setup scripts** 🤖  
 
 ---
 
 ## ⚔️ Motivation  
-The **official LMS** feels *slow, bare, and cluttered*.  
-This repo is designed to be:  
-✔️ **Cooler**  
-✔️ **Faster**  
-✔️ **Cyberpunk-inspired**  
 
-So you can focus more on **hacking knowledge (ethically!)** 🔒  
+The official LMS feels **slow + cluttered**.  
+This repo is **fast, clean, and cyberpunk-inspired** to help students **hack knowledge, not time**.  
 
 ---
 
 ## 📜 License  
-📌 For **educational & learning purposes only**.  
-All rights of original content remain with **Galgotias University**.  
+
+🔒 **For educational purposes only.**  
+All content originally © Galgotias University.  
 
 ---
 
-## ⚡ Hacker’s Oath  
-> "Hack the system 🖥️  
-> But always **stay ethical** 🛡️"
+## 💀 Hacker’s Oath  
 
----
-
-🔥 Suggestions: I can also **add hacker-style badges (Shields.io)** like:  
-- `Version: v3`  
-- `Status: Active`  
-- `Theme: Cyberpunk`  
-
----
-```
-
-***
-
-✨ This version feels **more cyber-hacker themed**, neatly formatted, and visually engaging for your LMS project.  
-
-👉 Do you want me to **add those hacker-style badges** at the top (next to the banner), for an even cooler vibe?
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=00FF00&center=true&vCenter=true&multiline=true&width=700&lines=%22Hack+the+System...;But+Always+Stay+ETHICAL+%F0%9F%92%BB+%F0%9F%9B%A1%EF%B8%8F%22" />
+</div>
