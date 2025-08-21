@@ -41,9 +41,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=22&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=600&lines=LMS-Sem3-CyberSec+%2F;┣━━+📂+Modules;┃+┣━━+📜+Network+Security;┃+┣━━+📜+Digital+Forensics;┃+┣━━+📜+Cryptography;┃+┗━━+📜+Cyber+Laws;┣━━+📂+Assignments;┣━━+📂+Resources;┣━━+📂+Tools;┗━━+📜+README.md" />
-
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=22&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=1600&lines=LMS-Sem3-CyberSec+%2F;┣━━+📂+Modules;┃+┣━━+📜+Network+Security;┃+┣━━+📜+Digital+Forensics;┃+┣━━+📜+Cryptography;┃+┗━━+📜+Cyber+Laws;┣━━+📂+Assignments;┣━━+📂+Resources;┣━━+📂+Tools;┗━━+📜+README.md" />
 
 </div>
 
