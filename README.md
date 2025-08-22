@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=25&center=true&vCenter=true&width=700&lines=Welcome+To+LMS+👾;Cybersecurity+%26+Digital+Forensics+Repo;Learn+Ethical+Hacking+%26+DFIR;Hack+the+System...+Stay+Ethical+🛡️" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=25&center=true&vCenter=true&width=700&lines=Welcome+To+LMS+👾;Cybersecurity+%26+Digital+Forensics+Repo;Files+Are+Uploaded+On+Daily+Basis;Hack+the+System...+Stay+Ethical+🛡️" />
 </p>
 
 <p align="center">
@@ -97,7 +97,16 @@ This repo is **fast, clean, and cybersecurity-inspired** to help students **hack
 All content originally © Galgotias University.  
 
 ---
+## ✨ Credits & Creators
+Developed And Managed by: @OG.SCARCE (Aman Patel) Section 52
+ 
+Co-Creator And Moderator: @abhishekdpandey18 (Abhishek Pandey) Section 52
 
+Institution: Galgotias University
+
+Year: 2025
+
+---
 ## 💀 Hacker’s Oath  
 
 <div align="center">
