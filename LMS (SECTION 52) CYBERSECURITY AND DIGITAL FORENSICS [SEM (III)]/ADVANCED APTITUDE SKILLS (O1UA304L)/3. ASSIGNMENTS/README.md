@@ -18,7 +18,7 @@
 ---
 
 ## 🤖 POST ASSIGNMENT 2
-**URL:** [POST ASSIGNMENT 2](https://gulms.galgoatiasuniversityaccc.org/mod/quiz/view.php?id=144464)
+**URL:** [POST ASSIGNMENT 2](https://gulms.galgotiasuniversity.org/mod/quiz/view.php?id=144468)
 
 
 ---
